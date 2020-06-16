@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="calculater">#673AB7</color>
+    <color name="text">#fffa9b</color>
+    <color name="cv3">#ffcd05</color>
+    <color name="cv2">#ff7200</color>
+    <color name="cv1">#ff0800</color>
+    <color name="texte">#FDEB4A</color>
+    <color name="texttt">#ff2a02</color>
+</resources>
